@@ -1,7 +1,7 @@
-#Bike Store Sales Analysis
+#Bike Store Sales Analysis#
 This repository contains the code and data files for an analysis of sales data for a bike store. The data contains information on sales for different products, customer demographics, and sales by date, location, and category.
 
-##Data
+##Data##
 The data used in this analysis is stored in a CSV file called sales_data.csv. The file contains the following columns:
 
 - Day: The day of the month on which the sale occurred.
