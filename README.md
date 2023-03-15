@@ -32,3 +32,13 @@ The code for the analysis is contained in the Bike.ipynb Jupyter Notebook file. 
 1. Data cleaning and preprocessing: This section involves cleaning the data and converting it into a format suitable for analysis. This includes handling missing values, transforming data types, and creating new columns.
 
 2. Exploratory data analysis: This section involves exploring the data to gain insights into the sales patterns, customer demographics, and product categories. This includes visualizations and statistical analysis.
+
+## Dependencies
+The following Python libraries are required to run the analysis:
+
+- Pandas
+- Numpy
+- Matplotlib.pyplot
+
+## Conclusion
+This analysis provides valuable insights into the sales patterns and customer demographics of a bike store. The results can be used to improve marketing strategies, optimize inventory management, and increase profitability.
