@@ -26,8 +26,8 @@ The data used in this analysis is stored in a TXT file called bike_data.txt. The
 - Clean_Profit: The clean profit from the sale
 - Seasons: The season of the year on which the sale occurred.
 
-##Analysis
-The code for the analysis is contained in the sales_analysis.ipynb Jupyter Notebook file. The notebook contains the following sections:
+## Analysis
+The code for the analysis is contained in the Bike.ipynb Jupyter Notebook file. The notebook contains the following sections:
 
 1. Data cleaning and preprocessing: This section involves cleaning the data and converting it into a format suitable for analysis. This includes handling missing values, transforming data types, and creating new columns.
 
